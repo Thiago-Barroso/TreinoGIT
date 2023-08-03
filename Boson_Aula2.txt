@@ -1,0 +1,13 @@
+Git
+Três Estados:
+	Estado Modificado -> Snapshot atual, no qual o trabalho é realizado
+
+	Estado Preparado -> Os arquivos são marcados na versão atual, prontos para serem armazenados.
+			    Staging Area.
+
+	Estado Consolidado -> Os dados são salvos no repositorio, onde o histórico é armazenado.
+				Este estágio é compartilhado.
+
+Configurações
+ git config --global user.name "Thiago Barroso"
+ git config --global user.email "thiago.concursos.23@gmail.com"

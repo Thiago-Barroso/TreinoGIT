@@ -11,3 +11,6 @@ Três Estados:
 Configurações
  git config --global user.name "Thiago Barroso"
  git config --global user.email "thiago.concursos.23@gmail.com"
+
+
+Mudei a abordagem. Farei um curso rapidinho para aprender o basico.

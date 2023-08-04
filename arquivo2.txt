@@ -1,1 +1,2 @@
-Isso também é um texto
+Isso também é um texto.
+Mais uma linha para outra branch

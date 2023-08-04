@@ -1,2 +1,3 @@
 Isso também é um texto.
 Mais uma linha para outra branch
+Uma linha escrita no VI
